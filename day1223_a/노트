@@ -1,0 +1,6 @@
+	DCL
+	DML
+	DDL
+	alter table board add b_ref number;
+	alter table board add b_level number;
+	alter table board add b_step number;
